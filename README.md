@@ -15,5 +15,5 @@ Model Compilation, Training, and Evaluation:
 
 Objective: 
 Achieve predictive accuracy >75% using machine learning and neural networks.
-After three attempts, accuracy ranged from 72.62% (test1) to 72.66% (test2) to 72.68%, falling short of the target of 75%. Even after adjusting activation code between relu and tanh, the result didn't touch 75%.
+After three attempts, accuracy ranged from 72.45% (test1) to 72.44% (test2) to 72.45%(test3), falling short of the target of 75%. Even after adjusting activation code between relu and tanh, the result didn't touch 75%.
 To achieve target beyond 75%, it's worth noting to utilize other classification model to improve prrediction model and perhaps adding more layers/neorons to the machine learning model. 
